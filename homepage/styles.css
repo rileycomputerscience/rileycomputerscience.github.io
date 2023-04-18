@@ -1,0 +1,23 @@
+p {
+  text-align: center;
+  color: purple;
+}
+#heading1 {
+    text-align: center;
+    color: green;
+  }
+  .center {
+    text-align: center;
+    color: green;
+  }
+    img{
+        width: 350px;
+    }
+    h1 {
+        text-align: center;
+        color: green;
+    }
+    * {
+        text-align: center;
+      }
+}
